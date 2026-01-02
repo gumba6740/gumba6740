@@ -3,7 +3,7 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
+  ##  About Me
   #### 🔥🔥🔥 I am a backend developer in progress<br/>
  
   <br/>
