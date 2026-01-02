@@ -4,9 +4,8 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a ...<br/>
-  #### :fire: I aim to become a ...<br/>
-  #### :mortar_board: ...
+  #### 🔥🔥🔥 I am a backend developer in progress<br/>
+ 
   <br/>
   <br/>
   
